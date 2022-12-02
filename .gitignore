@@ -1,2 +1,4 @@
 input
 examplein
+*.js
+node_modules/
