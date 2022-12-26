@@ -19,3 +19,10 @@ Languages:
 - 16.12. `Go`
 - 17.12. `Rust`
 - 18.12. `Java`
+- 19.12. `Go`
+- 20.12. `Python`
+- 21.12. `Python`
+- 22.12. `C++`
+- 23.12. `Slobodni izbor`
+- 24.12. `C#/Java`
+- 25.12. `C++`
